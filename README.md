@@ -51,5 +51,5 @@
 
 
 <p align="right">
-  📫 Contact: <a href="mailto:dbswhddlf97@hanyang.ac.kr">yoonjong1997@gmail.com</a>
+    📫 Contact: <a href="mailto:y2line97@gmail.com">y2line97@gmail.com</a>
 </p>
